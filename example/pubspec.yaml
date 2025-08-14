@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  nexever_file_picker:
+  nexever_file_picker_plus:
     path: ../
 
 

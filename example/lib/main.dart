@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nexever_file_picker/model/return_model.dart';
+import 'package:nexever_file_picker_plus/model/return_model.dart';
 
-import 'package:nexever_file_picker/nexever_file_picker.dart';
+import 'package:nexever_file_picker_plus/nexever_file_picker.dart';
 
 void main() {
   runApp(MyApp());

@@ -106,5 +106,5 @@ filePickerHelper.getImageWithCropping(ImageSource.camera, "image");
 filePickerHelper.getVideo("video");
 ```
 
-# nexever_file_picker
-# nexever_file_picker
+# nexever_file_picker_plus
+# nexever_file_picker_plus
